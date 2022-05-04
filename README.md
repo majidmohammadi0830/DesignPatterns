@@ -1,2 +1,1 @@
-# glowing-garbanzo
-Design patterns implementation
+# Design patterns implementation
